@@ -1,3 +1,3 @@
 #!/bin/sh -e
 
-lein test
+lein clean
